@@ -3,6 +3,8 @@ DemoApp::Application.routes.draw do
 
   resources :users
 
+  AHOJ AKO SA MAS?
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
